@@ -42,11 +42,11 @@ export default function ContactUs() {
 							And get us a drink in case you around. <br></br>Email us at{" "}
 							<a
 								className="text-yellow-btn-primary underline underline-offset-4 hover:text-yellow-600"
-								href="https://www.paninopanini.co.uk/"
+								href="mailto:venezuelafolkmusic@gmail.com"
 								target="_blank"
 								rel="noreferrer">
 								{" "}
-								hello@panicpanini.com{" "}
+								venezuelafolkmusic@gmail.com{" "}
 							</a>{" "}
 							or fill the form below.
 						</p>
